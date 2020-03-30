@@ -1,0 +1,81 @@
+.subtitle {
+    width: 100%;
+    background: rgba(49, 55, 72,0.7);
+    margin-top: 0px;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    font-size: 42px;
+    font-family: 'Oswald', sans-serif;
+}
+
+.apply-info {
+    text-align: center;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    font-family: 'Muli', sans-serif;
+    font-size: 18px;
+    color: #6377a8;
+}
+
+.apply-form {
+    width: 100%;
+    padding: 15px;
+    text-align: center;
+}
+
+.field {
+    margin-top: 25px;
+}
+
+.field > label {
+    font-family: 'Muli', sans-serif;
+    color: white;
+    font-size: 18px;
+    padding-bottom: 15px;
+}
+
+.field > input {
+    font-family: 'Muli', sans-serif;
+    background: rgba(255,255,255,0.1);
+    border: none;
+    border-bottom: 1px solid rgba(255,255,255,0.2);
+    width: 600px;
+    height: 25px;
+    outline: none;
+    color: white;
+    padding: 10px;
+    margin-top: 25px;
+}
+
+.field > select {
+    font-family: 'Muli', sans-serif;
+ 
+    background: rgba(255,255,255,0.1);
+    border: none;
+    border-bottom: 1px solid rgba(255,255,255,0.2);
+    width: 300px;
+    height: 45px;
+    outline: none;
+    color: white;
+    padding: 10px;
+    margin-top: 25px;
+}
+
+.field > textarea {
+    font-family: 'Muli', sans-serif;
+    background: rgba(255,255,255,0.1);
+    border: none;
+    border-bottom: 1px solid rgba(255,255,255,0.2);
+    width: 600px;
+    height: 60px;
+    outline: none;
+    color: white;
+    padding: 10px;
+    margin-top: 25px;
+}
+
+.field > label > small {
+    font-size: 12px;
+    color: #6377a8;
+}

@@ -1,0 +1,79 @@
+.leader {
+    width: 100%;
+    background: rgba(49, 55, 72,0.7);
+    margin-top: 0px;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    font-size: 42px;
+    font-family: 'Oswald', sans-serif;
+
+}
+
+
+.officers {
+    width: 100%;
+    background: #21242d;
+    margin-top: 50px;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    font-size: 42px;
+    font-family: 'Oswald', sans-serif;
+
+}
+
+
+.firstname {
+    text-align: center;
+    position: relative;
+    font-family: 'Oswald', sans-serif;
+    color: white;
+    font-size: 40px;
+    text-align: center;
+    font-weight: bold;
+    margin-top:0px;
+}
+
+.lastname {
+    position: relative;
+    color: #5b758d;
+    font-family: 'Oswald', sans-serif;
+    font-size: 40px;
+    text-align: center;
+    font-weight: bold;
+    margin-top:20px;
+}
+
+.lastname2 {
+    position: relative;
+    color: rgba(49, 62, 72, 0.7);
+    font-family: 'Oswald', sans-serif;
+    font-size: 40px;
+    text-align: center;
+    font-weight: bold;
+    margin-top:20px;
+}
+
+
+.info-text {
+    text-align: left;
+    position: relative;
+    font-family: 'Muli', sans-serif;
+    color: white;
+    font-size: 12px;
+    margin-top:0px;
+    line-height: 20px;
+}
+
+
+.info-left { 
+    padding: 5px;
+    width: 45%;
+    float: left;  
+}
+.info-right { 
+    padding: 5px;
+    width: 45%;
+    float: right; 
+} 

@@ -1,0 +1,131 @@
+.teamBox {
+    border: 2px solid rgba(160, 200, 212, 0.2);
+    width: 100%;
+    margin-top: 35px;
+    padding: 15px;
+    overflow:auto; 
+    color: white;
+    font-family: 'Muli', sans-serif;
+    font-weight: bold;
+    background-color: rgba(0,0,0,0.1);
+}
+.teamBox:hover {
+    border: 2px solid rgba(160, 200, 212, 0.5);
+}
+
+
+.filthycasuals {
+    background: url('./../../assets/images/static/filthycasuals.png') no-repeat top left;
+}
+
+.teamName_first {
+    text-align: center;
+    position: relative;
+    font-family: 'Oswald', sans-serif;
+    color: white;
+    font-size: 65px;
+    text-align: center;
+    font-weight: bold;
+    margin-top:0px;
+}
+.teamName_last {
+    position: relative;
+    color: #5b758d;
+    font-family: 'Oswald', sans-serif;
+    font-size: 65px;
+    text-align: center;
+    font-weight: bold;
+    margin-top:20px;
+}
+
+.teamInfo {
+    text-align: center;
+    font-size: 12px;
+    margin-top: 15px;
+    width: 65%;
+    margin: 0 auto;
+    position: relative;
+    top: 15px;
+}
+
+.prog {
+    text-transform: uppercase !important;
+    font-size: 16px;
+    text-align: center;
+    color: #5b758d;
+}
+
+  
+.left  { 
+    width: 50%;
+    float:left;  
+}
+.right1 { 
+    width: 25%;
+    float:right; 
+} 
+.right2 { 
+    width: 25%;
+    float:right; 
+} 
+
+.text-blue {
+    color: #5b758d;
+}
+
+.player {
+    margin: 5px;
+    padding: 5px;
+    height: 35px;
+}
+.player > p {
+    display: inline;
+    position: relative;
+    top: -8px;
+    left: 10px;
+    margin: 0;
+}
+
+.player > img {
+    position: relative;
+    left: 25px;
+    bottom: 5px;
+    width: 15px;
+    height: 15px;
+}
+
+.tank {
+    background: url('./../../assets/images/class/tank.png') no-repeat center center;
+    background-size: contain;
+    width: 26px;
+    height: 26px;
+    display: inline-block;
+}
+.healer {
+    background: url('./../../assets/images/class/healer.png') no-repeat center center;
+    background-size: contain;
+    width: 26px;
+    height: 26px;
+    display: inline-block;
+}
+.melee {
+    background: url('./../../assets/images/class/melee.png') no-repeat center center;
+    background-size: contain;
+    width: 26px;
+    height: 26px;
+    display: inline-block;
+}
+.ranged {
+    background: url('./../../assets/images/class/ranged.png') no-repeat center center;
+    background-size: contain;
+    width: 26px;
+    height: 26px;
+    display: inline-block;
+}
+.caster {
+    background: url('./../../assets/images/class/caster.png') no-repeat center center;
+    background-size: contain;
+    width: 26px;
+    height: 26px;
+    display: inline-block;
+}

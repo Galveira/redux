@@ -1,0 +1,107 @@
+.streamsbg {
+    height: 240px;
+    background-color: #161a25;
+}
+
+.twitch {
+    position: relative;
+    top: 29px;
+    float: left;
+    margin-left: 4px;
+    margin-right: 4px;
+    opacity: 0.3;
+}
+
+.twitch:hover {
+    opacity: 1;
+}
+
+.title-left {
+    float: left;
+    max-width: 750px;
+    width: 750px;
+}
+
+.title-right {
+    float: left;
+    max-width: 645px;
+    width: 645px;
+}
+
+
+.subtitle {
+    width: 100%;
+    background: rgba(49, 55, 72,0.7);
+    margin-top: 0px;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    font-size: 42px;
+    font-family: 'Oswald', sans-serif;
+
+}
+
+.subtitle2 {
+    width: 100%;
+    background: #21242d;
+    margin-top: 200px;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    font-size: 32px;
+    font-family: 'Oswald', sans-serif;
+}
+
+.whoisHead {
+    font-family: 'Oswald', sans-serif;
+    color: white;
+    font-size: 65px;
+    text-align: center;
+    font-weight: bold;
+}
+
+
+
+
+.news-left {
+    float:left; 
+    width: 453px;
+    border: 1px solid #1a1e2b;
+    margin-top: 50px;
+}
+.news-middle {
+    float:left; 
+    width: 453px;
+    margin-left: 15px;
+    margin-right: 15px;
+    border: 1px solid #1a1e2b;
+    margin-top: 50px;
+}
+.news-right {
+    float:left; 
+    width: 453px;
+    border: 1px solid #1a1e2b;
+    margin-top: 50px;
+}
+.news-content {
+    color: white;
+    padding: 15px;
+    text-align: center;
+    font-family: 'Muli', sans-serif;
+    font-size: 12px;
+}
+
+
+
+.newsImg {
+    background-position-x: center !important;
+    background-position-y: center !important;
+    height: 185px;
+    width: 100%;
+}
+
+.newsTitle {
+    font-family: 'Muli', sans-serif;
+    font-size: 18px;
+    color: #5b758d;
+}
